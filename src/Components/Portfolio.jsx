@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/office_desk.jpeg";
 
-const imageAltText = "an office table with laptop, newspaper, tea, phone, books and other stationary items";
+const imageAltText = "A office table with laptop, newspaper, tea, phone, books and other stationary items";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "an office table with laptop, newspaper, tea, phone, books 
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "A static website that contains Popular books title and description🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A book is one of the source from where we can gain a knowledge so this project includes list of 4 popular books such as Wings of Fire by Abdul Kalam.",
+    url: "https://github.com/RakshithaBhajentri/RakshithaBhajentri.github.io",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Food munch: food ordering page",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Food munch is a food ordering app which is a responsive page that contains the menu, delivery&payments and follow us section created using HTML, CSS and Bootstrap.",
+    url: "https://rakshitha20.ccbp.tech/",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/RakshithaBhajentri/Resume.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Website Integration",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A practice static webpage: Movie Page created by applying the concepts of HTML, CSS and Bootstrap"
+      url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
 
